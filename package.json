@@ -1,0 +1,11 @@
+{
+  "name": "hello-fxl",
+  "version": "1.0.0",
+  "description": "My first AI generated website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fxl",
+  "license": "MIT"
+}
